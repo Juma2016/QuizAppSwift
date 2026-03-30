@@ -1,0 +1,285 @@
+[
+  {
+    "id": "11111111-1111-1111-1111-111111111111",
+    "category": "Swift",
+    "question": "Was ist die Programmiersprache für iOS?",
+    "answers": ["Java", "C#", "Kotlin", "Swift"],
+    "correctAnswer": "Swift"
+  },
+  {
+    "id": "11111111-1111-1111-1111-111111111112",
+    "category": "Swift",
+    "question": "Wer entwickelt Swift?",
+    "answers": ["Google", "Apple", "Microsoft", "Meta"],
+    "correctAnswer": "Apple"
+  },
+  {
+    "id": "11111111-1111-1111-1111-111111111113",
+    "category": "Swift",
+    "question": "Welche UI-Technologie wird oft mit Swift verwendet?",
+    "answers": ["React", "SwiftUI", "Angular", "Vue"],
+    "correctAnswer": "SwiftUI"
+  },
+  {
+    "id": "11111111-1111-1111-1111-111111111114",
+    "category": "Swift",
+    "question": "Wie heißt Apples IDE für Swift?",
+    "answers": ["VS Code", "IntelliJ", "Xcode", "Eclipse"],
+    "correctAnswer": "Xcode"
+  },
+  {
+    "id": "11111111-1111-1111-1111-111111111115",
+    "category": "Swift",
+    "question": "Welche Firma steht hinter iOS?",
+    "answers": ["Apple", "Samsung", "Google", "Nokia"],
+    "correctAnswer": "Apple"
+  },
+  {
+    "id": "11111111-1111-1111-1111-111111111116",
+    "category": "Swift",
+    "question": "Swift ist eine ...",
+    "answers": ["Datenbank", "Programmiersprache", "Markup-Sprache", "Hardware"],
+    "correctAnswer": "Programmiersprache"
+  },
+  {
+    "id": "11111111-1111-1111-1111-111111111117",
+    "category": "Swift",
+    "question": "Welche Datei-Endung haben Swift-Dateien?",
+    "answers": [".java", ".swift", ".kt", ".py"],
+    "correctAnswer": ".swift"
+  },
+  {
+    "id": "11111111-1111-1111-1111-111111111118",
+    "category": "Swift",
+    "question": "Welches Framework nutzt man für deklarative UI in Swift?",
+    "answers": ["UIKit", "SwiftUI", "NodeUI", "Jetpack"],
+    "correctAnswer": "SwiftUI"
+  },
+  {
+    "id": "11111111-1111-1111-1111-111111111119",
+    "category": "Swift",
+    "question": "Swift wird hauptsächlich für ... verwendet.",
+    "answers": ["iOS-Apps", "Tabellenkalkulation", "Browser-Plugins", "Photoshop"],
+    "correctAnswer": "iOS-Apps"
+  },
+  {
+    "id": "11111111-1111-1111-1111-111111111120",
+    "category": "Swift",
+    "question": "Welche Sprache war vor Swift für iOS sehr verbreitet?",
+    "answers": ["Ruby", "Objective-C", "PHP", "Go"],
+    "correctAnswer": "Objective-C"
+  },
+
+  {
+    "id": "22222222-2222-2222-2222-222222222221",
+    "category": "Java",
+    "question": "Welche Firma entwickelte Java ursprünglich?",
+    "answers": ["Sun Microsystems", "Apple", "IBM", "Google"],
+    "correctAnswer": "Sun Microsystems"
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222222",
+    "category": "Java",
+    "question": "Java-Code läuft auf der ...",
+    "answers": ["JVM", "GPU", "BIOS", "SSD"],
+    "correctAnswer": "JVM"
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222223",
+    "category": "Java",
+    "question": "Welche Dateiendung haben Java-Dateien?",
+    "answers": [".js", ".swift", ".java", ".kt"],
+    "correctAnswer": ".java"
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222224",
+    "category": "Java",
+    "question": "Java ist ...",
+    "answers": ["eine Programmiersprache", "ein Betriebssystem", "ein Browser", "eine Datenbank"],
+    "correctAnswer": "eine Programmiersprache"
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222225",
+    "category": "Java",
+    "question": "Welches Schlüsselwort wird für Klassenvererbung verwendet?",
+    "answers": ["implements", "extends", "inherits", "superclass"],
+    "correctAnswer": "extends"
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222226",
+    "category": "Java",
+    "question": "Java ist stark mit welchem Prinzip verbunden?",
+    "answers": ["Objektorientierung", "Bildbearbeitung", "Tabellen", "Netzwerkhardware"],
+    "correctAnswer": "Objektorientierung"
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222227",
+    "category": "Java",
+    "question": "Welche Methode ist der Einstiegspunkt eines Java-Programms?",
+    "answers": ["run()", "main()", "start()", "open()"],
+    "correctAnswer": "main()"
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222228",
+    "category": "Java",
+    "question": "Java wird oft verwendet für ...",
+    "answers": ["Web- und Android-Entwicklung", "Photoshop-Dateien", "Bios-Updates", "Druckerpatronen"],
+    "correctAnswer": "Web- und Android-Entwicklung"
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222229",
+    "category": "Java",
+    "question": "Welche Ausgabeanweisung ist in Java korrekt?",
+    "answers": ["print()", "System.out.println()", "echo()", "console.write()"],
+    "correctAnswer": "System.out.println()"
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222230",
+    "category": "Java",
+    "question": "Welche Entwicklungsumgebung wird oft für Java verwendet?",
+    "answers": ["Xcode", "Android Studio", "GarageBand", "Figma"],
+    "correctAnswer": "Android Studio"
+  },
+
+  {
+    "id": "33333333-3333-3333-3333-333333333331",
+    "category": "Web",
+    "question": "Was ist HTML?",
+    "answers": ["Programmiersprache", "Markup-Sprache", "Datenbank", "Betriebssystem"],
+    "correctAnswer": "Markup-Sprache"
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333332",
+    "category": "Web",
+    "question": "Wofür wird CSS verwendet?",
+    "answers": ["Daten speichern", "Design und Layout", "Server starten", "Apps kompilieren"],
+    "correctAnswer": "Design und Layout"
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333333",
+    "category": "Web",
+    "question": "Welche Sprache macht Webseiten interaktiv?",
+    "answers": ["HTML", "CSS", "JavaScript", "SQL"],
+    "correctAnswer": "JavaScript"
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333334",
+    "category": "Web",
+    "question": "Was bedeutet URL?",
+    "answers": ["Uniform Resource Locator", "Universal Run Link", "User Resource Language", "Unified Reference Logic"],
+    "correctAnswer": "Uniform Resource Locator"
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333335",
+    "category": "Web",
+    "question": "Welche Technologie strukturiert Webseiteninhalte?",
+    "answers": ["HTML", "CSS", "Photoshop", "SQL"],
+    "correctAnswer": "HTML"
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333336",
+    "category": "Web",
+    "question": "Welche Technologie stylt Webseiten?",
+    "answers": ["Java", "CSS", "Swift", "C#"],
+    "correctAnswer": "CSS"
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333337",
+    "category": "Web",
+    "question": "Was ist ein Browser?",
+    "answers": ["Ein Texteditor", "Ein Programm zum Anzeigen von Webseiten", "Eine Datenbank", "Ein Compiler"],
+    "correctAnswer": "Ein Programm zum Anzeigen von Webseiten"
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333338",
+    "category": "Web",
+    "question": "Welche Sprache läuft direkt im Browser?",
+    "answers": ["Swift", "JavaScript", "SQL", "C++"],
+    "correctAnswer": "JavaScript"
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333339",
+    "category": "Web",
+    "question": "Was ist ein Link?",
+    "answers": ["Eine Verbindung zu einer anderen Seite", "Eine Schriftart", "Ein Tabellenformat", "Ein Server"],
+    "correctAnswer": "Eine Verbindung zu einer anderen Seite"
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333340",
+    "category": "Web",
+    "question": "Wofür steht HTTP?",
+    "answers": ["HyperText Transfer Protocol", "HighText Transfer Program", "Home Tool Transfer Protocol", "Hyper Terminal Text Process"],
+    "correctAnswer": "HyperText Transfer Protocol"
+  },
+
+  {
+    "id": "44444444-4444-4444-4444-444444444441",
+    "category": "Databases",
+    "question": "Welche Sprache wird oft für Datenbanken verwendet?",
+    "answers": ["HTML", "SQL", "Swift", "CSS"],
+    "correctAnswer": "SQL"
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444442",
+    "category": "Databases",
+    "question": "Was bedeutet SQL?",
+    "answers": ["Structured Query Language", "Simple Question Language", "Server Query Link", "Static Query Logic"],
+    "correctAnswer": "Structured Query Language"
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444443",
+    "category": "Databases",
+    "question": "Wo speichert eine Datenbank Informationen?",
+    "answers": ["In Tabellen", "In Bildern", "In Videos", "In Icons"],
+    "correctAnswer": "In Tabellen"
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444444",
+    "category": "Databases",
+    "question": "Wie nennt man eine Zeile in einer Tabelle?",
+    "answers": ["Record", "Pixel", "Frame", "Button"],
+    "correctAnswer": "Record"
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444445",
+    "category": "Databases",
+    "question": "Wie nennt man eine Spalte in einer Tabelle?",
+    "answers": ["Attribute", "Animation", "Section", "Gesture"],
+    "correctAnswer": "Attribute"
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444446",
+    "category": "Databases",
+    "question": "Wofür steht DBMS?",
+    "answers": ["Database Management System", "Data Basic Memory Storage", "Direct Backup Main Server", "Digital Base Mapping Service"],
+    "correctAnswer": "Database Management System"
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444447",
+    "category": "Databases",
+    "question": "Welche SQL-Anweisung liest Daten?",
+    "answers": ["INSERT", "DELETE", "SELECT", "DROP"],
+    "correctAnswer": "SELECT"
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444448",
+    "category": "Databases",
+    "question": "Welche SQL-Anweisung fügt Daten ein?",
+    "answers": ["SELECT", "INSERT", "REMOVE", "READ"],
+    "correctAnswer": "INSERT"
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444449",
+    "category": "Databases",
+    "question": "Welche SQL-Anweisung löscht Daten?",
+    "answers": ["DELETE", "SHOW", "SELECT", "OPEN"],
+    "correctAnswer": "DELETE"
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444450",
+    "category": "Databases",
+    "question": "Eine relationale Datenbank arbeitet oft mit ...",
+    "answers": ["Tabellen", "Bildern", "Sounds", "Animationen"],
+    "correctAnswer": "Tabellen"
+  }
+]
